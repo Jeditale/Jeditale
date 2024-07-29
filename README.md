@@ -3,7 +3,6 @@
 
 
 ## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/pattaradanai yosboon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pattaradanai yosboon" height="30" width="40" /></a>
 <a href="https://instagram.com/jeditale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeditale" height="30" width="40" /></a>
