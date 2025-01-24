@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with OpenGl<br>🌱 I’m currently learning OpenGL<br>💬 Ask me about Java ,C,C++<br>⚡ Fun fact I cant sleep without coffee
+🤝 I’m looking for help with NESTJS<br>🌱 I’m currently learning NestJS<br>💬 Ask me about Java ,C,C++,Ts<br>⚡ Fun fact I cant sleep without coffee
 
 
 ## 🌐 Socials:
