@@ -15,5 +15,5 @@
   ## 💰 You can buy coffee....
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Jeditale) 
 
-# I use ARCH BTW now MacOS
+## I use ARCH BTW now MacOS
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
